@@ -4,3 +4,6 @@
 [submodule "Javascript-study"]
 	path = Javascript-study
 	url = https://github.com/Itsbeenalongday/Javascript-study.git
+[submodule "Python-Study"]
+	path = Python-Study
+	url = https://github.com/Itsbeenalongday/Python-Study.git
