@@ -1,3 +1,6 @@
 [submodule "cpp-cheatsheet"]
 	path = cpp-cheatsheet
 	url = https://github.com/Itsbeenalongday/cpp-cheatsheet.git
+[submodule "Javascript-study"]
+	path = Javascript-study
+	url = https://github.com/Itsbeenalongday/Javascript-study.git
