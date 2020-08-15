@@ -16,3 +16,6 @@
 [submodule "cheatsheets"]
 	path = cheatsheets
 	url = https://github.com/Itsbeenalongday/cheatsheets.git
+[submodule "IO"]
+	path = IO
+	url = https://github.com/Itsbeenalongday/IO.git
