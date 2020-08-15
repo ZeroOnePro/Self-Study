@@ -10,3 +10,6 @@
 [submodule "Linux-instruction"]
 	path = Linux-instruction
 	url = https://github.com/Itsbeenalongday/Linux-instruction.git
+[submodule "Git-Study"]
+	path = Git-Study
+	url = https://github.com/Itsbeenalongday/Git-Study.git
