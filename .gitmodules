@@ -13,3 +13,6 @@
 [submodule "Git-Study"]
 	path = Git-Study
 	url = https://github.com/Itsbeenalongday/Git-Study.git
+[submodule "cheatsheets"]
+	path = cheatsheets
+	url = https://github.com/Itsbeenalongday/cheatsheets.git
