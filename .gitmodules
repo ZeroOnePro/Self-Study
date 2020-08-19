@@ -19,3 +19,6 @@
 [submodule "IO"]
 	path = IO
 	url = https://github.com/Itsbeenalongday/IO.git
+[submodule "Ruby-study"]
+	path = Ruby-study
+	url = https://github.com/Itsbeenalongday/Ruby-study.git
