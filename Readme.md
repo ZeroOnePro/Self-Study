@@ -27,7 +27,9 @@
 
 ## Reference
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThibaultJanBeyer&repo=cheatsheets&theme=prussian)](https://github.com/ThibaultJanBeyer/cheatsheets.git)
+<div align="center">
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThibaultJanBeyer&repo=cheatsheets&theme=prussian)](https://github.com/ThibaultJanBeyer/cheatsheets.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mortennobel&repo=cpp-cheatsheet&theme=prussian)](https://github.com/mortennobel/cpp-cheatsheet.git)
 
+</div>
