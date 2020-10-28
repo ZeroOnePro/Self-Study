@@ -16,3 +16,6 @@
 [submodule "Ruby-study"]
 	path = Ruby-study
 	url = https://github.com/Itsbeenalongday/Ruby-study.git
+[submodule "AWS"]
+	path = AWS
+	url = https://github.com/Itsbeenalongday/AWS.git

@@ -25,6 +25,9 @@
 6. Ruby-study
    - ruby 언어 공부
 
+7. AWS
+   - 아마존 웹서비스에서 배포하는 방법 공부
+
 ## Reference
 
 <div align="center">
