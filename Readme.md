@@ -1,18 +1,23 @@
 # Self-study
 
-개인공부자료 및 참고자료
++ 각종 언어 문법 
++ Linux terminal 기본 명령어들
++ git 기본 명령어들
+
+에 대해 공부한 자료모음입니다
+
 
 ## List
 1. Git-Study
-   - git을 다루기 위한 공부
+   - git의 기본적인 명령어들을 알아봅니다
 
 
 2. IO
-   - 각 언어별 IO 방법 공부
+   - 여러 언어의 standard IO에 대해 알아봅니다
 
 
 3. Javascript-study
-   - javascript 언어 공부
+   - javascript 언어 기초 공부
 
 
 4. Linux-instruction
@@ -20,18 +25,7 @@
 
 
 5. Python-Study
-   - python 언어 공부
+   - python 언어 기초 공부
 
 6. Ruby-study
-   - ruby 언어 공부
-
-
-## Reference
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ThibaultJanBeyer&repo=cheatsheets&theme=prussian)](https://github.com/ThibaultJanBeyer/cheatsheets.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mortennobel&repo=cpp-cheatsheet&theme=prussian)](https://github.com/mortennobel/cpp-cheatsheet.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=python&repo=cpython&theme=prussian)](https://github.com/python/cpython.git)
-
-</div>
+   - ruby 언어 기초 공부
