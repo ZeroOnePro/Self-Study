@@ -1,4 +1,4 @@
-# Self-study
+# Studies
 
 + 각종 언어 문법 
 + Linux terminal 기본 명령어들
